@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e gzk-test-demo-8g9dhk540dbfb0e4 --n quickstartFunctions --r --project "C:\Users\gzk\Desktop\微信小程序" --report
